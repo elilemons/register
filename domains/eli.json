@@ -1,0 +1,13 @@
+{
+  "description": "Personal website located at is-a.dev",
+  "repo": "https://github.com/elilemons",
+  "owner": {
+    "username": "elilemons",
+    "email": "me@elilemons.com"
+  },
+  "record": {
+    "CNAME": "github-elilemons.github.io",
+    "TXT": ["_github-pages-challenge-elilemons.eli.is-a.dev", "2d161e52bd2777e9cfa400912ca09c"]
+  },
+  "proxied": true
+}
